@@ -1,1 +1,1 @@
-# HeartDiseasPredictor
+# HeartDiseasePredictor
